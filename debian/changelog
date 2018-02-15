@@ -1,0 +1,5 @@
+rsync-bpc (3.0.9.12-1) stretch-ee; urgency=medium
+
+  * Initial release
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Fri, 16 Feb 2018 00:14:31 +0100
