@@ -1,3 +1,9 @@
+rsync-bpc (3.0.9.12-1~eebpo80+1) jessie-ee; urgency=medium
+
+  * Release for jessie-ee distribution
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Sat, 17 Feb 2018 12:11:19 +0100
+
 rsync-bpc (3.0.9.12-1) stretch-ee; urgency=medium
 
   * Initial release
