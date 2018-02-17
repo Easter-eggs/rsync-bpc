@@ -1,3 +1,9 @@
+rsync-bpc (3.0.9.12-1~eebpo90+1) stretch-ee; urgency=medium
+
+  * Fix version name
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Sat, 17 Feb 2018 12:14:36 +0100
+
 rsync-bpc (3.0.9.12-1) stretch-ee; urgency=medium
 
   * Initial release
