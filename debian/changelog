@@ -1,3 +1,9 @@
+rsync-bpc (3.0.9.12-1~eebpo100+1) buster-ee; urgency=medium
+
+  * Fix version name
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Tue, 21 Jan 2020 11:28:47 +0100
+
 rsync-bpc (3.0.9.12-1) stretch-ee; urgency=medium
 
   * Initial release
